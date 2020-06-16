@@ -43,7 +43,7 @@
 12. TIME=實際使用CPU的時間
 13. COMMAND=該行程的指令
 
-** grep，只列出符合服務名稱的該行即可：ex crond
+**  grep，只列出符合服務名稱的該行即可：ex crond
 
 
 
