@@ -6,4 +6,5 @@
 * thread 線程
 ************************************************
 ## 行程狀態指令 -ps
-* 
+
+![](https://github.com/sps326532/108linux--note/blob/master/1.PNG)
